@@ -1,4 +1,13 @@
 @font-face {
+    font-family: 'Source sans pro';
+    src: url('./fonts/source-sans-pro/SourceSansPro-Regular.otf')
+}
+@font-face {
+    font-family: 'Spin Cycle';
+    src: url('./fonts/Spin-Cycle-OT/spincycle_ot.otf');
+}
+
+@font-face {
   font-family: 'holberton_school-icon';
   src:  url('fonts/holberton_school-icon.eot?sq4eq4');
   src:  url('fonts/holberton_school-icon.eot?sq4eq4#iefix') format('embedded-opentype'),
