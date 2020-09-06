@@ -302,6 +302,52 @@ div.contact-us-container h1 {
   border-bottom-color: black;
   transition: border-bottom-color 0.5s ease-in-out;
 }
+
+/* FOOTER */
+footer {
+  background-color: black;
+  padding: 50px;
+}
+
+div.footer {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+p.footer-copyright {
+  color: var(--text-color);
+  font-size: 12px;
+  line-height: 15px;
+  opacity: 0.35;
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+ul.social-media-icons {
+  width: 130px;
+  height: 30px;
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0;
+}
+li.social-media-icons {
+  color: white;
+  margin: 7px;
+}
+li.social-media-icons::before {
+  font-size: 30px;
+}
+
 /* Media queries */
 @media (max-width: 480px) {
 .header-main {
@@ -340,6 +386,13 @@ div.header-logo {
   .what-we-do-icons {
     max-width: 410px;
   }
+  div.footer {
+    flex-direction: column;
+  }
+  .footer a, p.footer-copyright, ul.social-media-icons {
+    margin: 20px;
+  }
+
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
