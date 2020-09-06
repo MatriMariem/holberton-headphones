@@ -302,6 +302,10 @@ div.contact-us-container h1 {
   border-bottom-color: black;
   transition: border-bottom-color 0.5s ease-in-out;
 }
+
+button.contact-us-button {
+  filter: none;
+}
 /* Media queries */
 @media (max-width: 480px) {
 .header-main {

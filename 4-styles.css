@@ -6,6 +6,8 @@
   --text-color: white;
   --pink-color: #FF6565;
   --family-font: 'Source sans pro', 'Spin Cycle', 'holberton_school-icon', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --grey-blue: #061528;
+  --light-grey: #DCDCDC;
 }
 
 /* General */
@@ -22,17 +24,15 @@ button:focus {
   outline: none;
 }
 /* *************** */
-
+/* Hero */
 header {
   background-image: url(images/headphones_hero_1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  /*background-size: contain;*/
   background-position: center;
-  background-color: #061528;
+  background-color: var(--grey-blue);
   max-width: 100%;
   height: 800px;
-  /*height: auto;*/
 }
 
 .container {
@@ -72,7 +72,6 @@ li.nav-item a:active, li.nav-item a:hover {
   color: var(--text-color);
   text-align: center;
   width: 700px;
-  /*height: 313px;*/
   height: auto;
   margin: auto;
   margin-top: 340px;
@@ -118,17 +117,8 @@ label.menu-button {
   left: -165px;
   top: 25px;
 }
-/*label.menu-button {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  top: 0;
-  left: 0;
-}*/
 
 input.menu-button {
-  /*position: absolute;*/
   display: none;
 }
 .menu-button-line {
@@ -177,10 +167,7 @@ div.what-we-do-text {
 }
 
 .what-we-do-icons {
-  /*width: 1002px;
-  max-width: 72%;*/
   max-width: 90%;
-  /*height: 193px;*/
   margin: auto;
   margin-top: 110px;
   margin-bottom: 110px;
@@ -199,6 +186,7 @@ div.what-we-do-text {
   font-size: 90px;
   color: var(--pink-color);
 }
+
 /* OUR RESULTS SECTION */
 
 .results {
@@ -206,7 +194,7 @@ div.what-we-do-text {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #061528;
+  background-color: var(--grey-blue);
   max-width: 100%;
   height: auto;
   padding: 50px;
@@ -228,7 +216,6 @@ div.what-we-do-text {
   line-height: 26px;
 }
 div.results-pentagones {
-  /*height: 193px;*/
   max-width: 100%;
   margin: auto;
   margin-top: 110px;
@@ -267,6 +254,7 @@ margin-bottom: 10px;
 font-size: 14px;
 line-height: 26px;
 }
+
 /* CONTACT US */
 div.contact-us-container {
   margin: auto;
@@ -293,7 +281,7 @@ div.contact-us-container h1 {
 .contact-us-input input {
   background-color: transparent;
   border-color: transparent;
-  border-bottom: solid #DCDCDC 2px;
+  border-bottom: solid var(--light-grey) 2px;
   width: 100%;
   outline: none;
   margin-bottom: 45px;
@@ -303,6 +291,9 @@ div.contact-us-container h1 {
   transition: border-bottom-color 0.5s ease-in-out;
 }
 
+button.contact-us-button {
+  filter: none;
+}
 /* FOOTER */
 footer {
   background-color: black;
