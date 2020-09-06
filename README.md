@@ -30,18 +30,23 @@ In this project:
  - button hover/active: opacity: 0.9
 
 # Final Screens
+![All](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/holberton-headphones.jpg)  
+
 
  **Desktop (Max-width: 1400 px)**
 
-![Desktop](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)
+![Desktop](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)  
+
 
  **Tablet (Width: 481px <-> 768px)**
 
-![Tablet](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%402x.png)
+![Tablet](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%402x.png)  
+
 
  **Mobile (Max-width: 480px)**
 
-![Mobile](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)
+![Mobile](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)  
+
 
 # Author:
 
