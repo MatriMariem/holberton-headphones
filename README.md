@@ -33,16 +33,16 @@ In this project:
 
  **Desktop (Max-width: 1400 px)**
 
-![Desktop](https://github.com/MatriMariem/holberton-headphones/Final-screens/01_headphones_desktop@2x.png)
+![Desktop](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)
 
  **Tablet (Width: 481px <-> 768px)**
 
-![Tablet](https://github.com/MatriMariem/holberton-headphones/Final-screens/01_headphones_tablet@2x.png)
+![Tablet](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%402x.png)
 
  **Mobile (Max-width: 480px)**
 
-![Mobile](https://github.com/MatriMariem/holberton-headphones/Final-screens/01_headphones_mobile@2x.png)
+![Mobile](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)
 
 # Author:
 
-Mariem Matri: [MatriMariem](https://github.com/MatriMariem)
+Mariem Matri: [Github](https://github.com/MatriMariem)
