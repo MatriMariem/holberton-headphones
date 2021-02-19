@@ -48,6 +48,18 @@ In this project:
 ![Mobile](https://github.com/MatriMariem/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)  
 
 
-# Author:
+## AUTHOR
+Mariem Matri : [LinkedIn] | [GitHub] | [Twitter]
 
-Mariem Matri: [Github](https://github.com/MatriMariem)
+[LinkedIn]: <https://www.linkedin.com/in/mariem-matri-249620178>
+[GitHub]: <https://github.com/MatriMariem>
+[Twitter]: <https://twitter.com/MatriMariem>
+
+## AUTHOR DESCRIPTION
+ - I'm a Food Process Engineer and a software engineering student at Holberton School.
+  - I have been studying low-level programming, high-level
+ programming, system engineering and devops, and web
+ stack programming (Front-end & Back-end) using a
+ methodology based on peer-learning and projects.
+  - I'm curious, adaptable, a fast learner and I love developing
+ my skills.
